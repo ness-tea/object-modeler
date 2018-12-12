@@ -1,5 +1,5 @@
 # 3D-Object-Modeller
 
-Group members: Harri Lau, Vanessa Truong
+Developers: Harri Lau, Vanessa Truong
 
-Model objects in a scene and perform user-defined functions
+Model and interact with user-defined scene objects.
